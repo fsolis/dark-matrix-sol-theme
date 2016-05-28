@@ -1,0 +1,15 @@
+{
+    "name": "fsolis.dark-matrix-sol-theme",
+    "title": "Dark Matrix Sol Theme",
+    "description": "Unique Dark MATRIX inspired Theme For Brackets",
+    "homepage": "https://github.com/fsolis/dark-matrix-sol-theme",
+    "version": "1.0.0",
+    "author": "Freddy Solis",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
